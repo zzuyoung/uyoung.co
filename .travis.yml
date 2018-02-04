@@ -25,7 +25,7 @@ after_script:
 
 branches:
   only:
-    - hexo  #只监测hexo分支，hexo是我的分支的名称，可根据自己情况设置
+    - hexo  #只监测hexo分支，hexo是我的分支的名称，可根据自己情况设置1
 env:
  global:
    - GH_REF: github.com/zzuyoung/uyoung.co.git  #设置GH_REF，注意更改yourname
