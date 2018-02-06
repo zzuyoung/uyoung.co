@@ -1,8 +1,7 @@
 ---
-layout: post
 title: "mp2使用"
 date: 2018-02-03 00:59:00
-comments: true
+categories: 学习册
 tags:
 	- ubuntu
 	- 服务器

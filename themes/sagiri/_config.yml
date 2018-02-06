@@ -768,10 +768,10 @@ css: css
 js: js
 images: images
 
-header_bg: /images/header-xiaomai.webp
+header_bg: /images/xiaoying.jpg
 
 card:
-  avatar: /images/xiaoying.jpg
+  avatar: /images/xiaomai-card.webp
   name: uyoung
   description: hi,uyoung
 
