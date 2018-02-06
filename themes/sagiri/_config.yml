@@ -24,13 +24,13 @@ favicon:
   hidden: /images/failure.ico
   show_text: (/≧▽≦/)咦！又好了！
   hide_text: (●—●)喔哟，崩溃啦！
-  apple_touch_icon: /images/DIYgod-180x180.jpg
-  safari_pinned_tab: /images/DIYgod.jpg
+  apple_touch_icon: /images/uyoung-180x180.jpeg
+  safari_pinned_tab: /images/uyoung.jpeg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "DIYgod,blog"
+keywords: "uyoung,blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -768,12 +768,12 @@ css: css
 js: js
 images: images
 
-header_bg: /images/header-sagiri.jpg
+header_bg: /images/header-xiaomai.webp
 
 card:
   avatar: /images/card.jpg
   name: uyoung
-  description: 
+  description: hi,uyoung
 
 footer:
   # Specify the date when the site was setup.
@@ -798,7 +798,7 @@ footer:
   # Any custom text can be defined here.
   custom_text: 托管于<a href="https://github.com/" target="_blank" rel="nofollow"> GitHub</a>. <a href="https://www.upyun.com/" target="_blank" rel="nofollow">又拍云</a> 提供 CDN 服务. <a href="http://www.google.com/analytics/" target="_blank" rel="nofollow">Google Analytics </a>提供网站统计服务.
   sitemap: /sitemap.xml
-  beian: 鲁ICP备16000184号
+  beian: 鲁ICP备15012762号-3
 
 online_api: wss://api.prprpr.me/online/
 
