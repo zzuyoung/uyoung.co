@@ -29,5 +29,5 @@ $(function () {
 
 &nbsp;
 
-同步自：[DIYgod喜欢的音乐 - 网易云音乐](http://music.163.com/#/playlist?id=75099864)
+同步自：[uyoung喜欢的音乐 - 网易云音乐](http://music.163.com/#/playlist?id=75099864)
 自豪地使用 [Meting](https://github.com/metowolf/Meting) 和 [APlayer](https://github.com/MoePlayer/APlayer) 构建
