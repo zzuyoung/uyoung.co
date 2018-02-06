@@ -1,6 +1,6 @@
-# diygod.me
+# uyoung.co
 
 > My lovely blog
 
-[![Travis](https://img.shields.io/travis/DIYgod/diygod.me.svg?style=flat-square)](https://travis-ci.org/DIYgod/diygod.me)
-[![dependencies Status](https://img.shields.io/david/DIYgod/diygod.me.svg?style=flat-square)](https://david-dm.org/DIYgod/diygod.me)
+[![Travis](https://img.shields.io/travis/zzuyoung/uyoung.co.svg?style=flat-square)](https://travis-ci.org/zzuyoung/uyoung.co)
+[![dependencies Status](https://img.shields.io/david/zzuyoung/uyoung.co.svg?style=flat-square)](https://david-dm.org/zzuyoung/uyoung.co)
