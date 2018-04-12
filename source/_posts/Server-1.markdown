@@ -50,7 +50,7 @@ uyoung@VM-0-11-ubuntu:~$ sudo service ssh restart
 
 ```
 
-![实现秘钥自动登录](http://cdn-hexo.uyoung.co/sshmiyao.png)
+![实现秘钥自动登录](https://imgone.uyoung.co/hexo/sshmiyao.png)
 
 
 

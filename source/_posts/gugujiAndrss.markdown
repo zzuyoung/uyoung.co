@@ -9,7 +9,7 @@ tags:
 ---
 
 ### 先晒一张我的咕咕机
-![咕咕机](http://imgone.uyoung.co/hexo/gugu_20180404.jpg)
+![咕咕机](https://imgone.uyoung.co/hexo/gugu_20180404.jpg)
 
 <!-- more -->
 

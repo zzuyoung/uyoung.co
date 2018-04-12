@@ -103,9 +103,9 @@ this.addSolder = this.addSolder.bind(this)
 > 组件卸载生命周期
 
 
-![React生命周期](http://cdn-hexo.uyoung.co/Reactlifecycle.jpg)
+![React生命周期](https://imgone.uyoung.co/hexo/Reactlifecycle.jpg)
 
-![React生命周期](http://cdn-hexo.uyoung.co/Reactlifecycle-1.jpg)
+![React生命周期](https://imgone.uyoung.co/hexo/Reactlifecycle-1.jpg)
 ```javascript
 
 class YiYing extends React.Component{
