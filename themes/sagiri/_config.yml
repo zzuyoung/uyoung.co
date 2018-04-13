@@ -115,10 +115,12 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  METO: https://i-meto.com/ || https://linklink.b0.upaiyun.com/meto.jpg || 萨摩公园
-  myhloli: http://myhloli.com/ || https://linklink.b0.upaiyun.com/myhloli.jpeg || 爱生活，爱萝莉
-  Showfom: https://sb.sb/ || https://linklink.b0.upaiyun.com/Showfom.jpg || 烧饼博客是专注于服务器教程，专业域名投资和见解的博客
-  小霖: https://xiaolin.in/ || https://linklink.b0.upaiyun.com/%E5%B0%8F%E9%9C%96.png || 岁月静好,现世安稳
+  DIYgod: https://diygod.me/ ||https://imgone.uyoung.co/hexo/friends/DIYgod.jpg || 人气网红 | 前端萌(da)新(lao) | 有猫 | 开源
+  METO: https://i-meto.com/ || https://imgone.uyoung.co/hexo/friends/meto.jpg || 萨摩公园
+  myhloli: http://myhloli.com/ || https://imgone.uyoung.co/hexo/friends/myhloli.jpeg || 爱生活，爱萝莉
+  Showfom: https://sb.sb/ || https://imgone.uyoung.co/hexo/friends/Showfom.jpg || 烧饼博客是专注于服务器教程，专业域名投资和见解的博客
+  小霖: https://xiaolin.in/ || https://imgone.uyoung.co/hexo/friends/%E5%B0%8F%E9%9C%96.png || 岁月静好,现世安稳
+  TyzuaL: https://tyzual.com/ || https://imgone.uyoung.co/hexo/friends/TyzuaL.jpg || 一只潜伏在企鹅群中的小喵
 
 
 # Sidebar Avatar
