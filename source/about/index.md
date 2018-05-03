@@ -13,5 +13,4 @@ type: "about"
 
 &nbsp;
 
-
-金主老爷： [![](/images/upyun_logo2.png)](https://www.upyun.com) 
+[![金主baba](/images/upyun_logo2.png "又拍云")](https://www.upyun.com)
