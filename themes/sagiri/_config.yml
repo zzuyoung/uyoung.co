@@ -126,7 +126,7 @@ links:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-avatar: /images/uyoung.jpg
+avatar: /images/uyoung2.jpg
 
 # Table Of Contents in the Sidebar
 toc:
@@ -775,7 +775,7 @@ images: images
 header_bg: /images/header-sagiri.jpg
 
 card:
-  avatar: /images/card_uyoung.jpg
+  avatar: /images/card_uyoung2.jpg
   name: uyoung
   description: hi,uyoung
 
