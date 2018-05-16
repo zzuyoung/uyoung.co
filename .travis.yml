@@ -17,8 +17,8 @@ script:
 after_script:
   - cd ./public
   - git init
-  - git config user.name "zzuyoung"  #修改name
-  - git config user.email "zzyouyang@qq.com"  #修改email
+  - git config user.name "uyoung"  #修改name
+  - git config user.email "uyoung.co@gmail.com"  #修改email
   - git add .
   - git commit -m "update"
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master  #GH_TOKEN是在Travis中配置token的名称
@@ -28,7 +28,7 @@ branches:
     - hexo  #只监测hexo分支，hexo是我的分支的名称，可根据自己情况设置1
 env:
  global:
-   - GH_REF: github.com/zzuyoung/uyoung.co.git  #设置GH_REF，注意更改yourname
+   - GH_REF: github.com/uyoungco/uyoung.co.git  #设置GH_REF，注意更改yourname
 
 cache:
   yarn: true
