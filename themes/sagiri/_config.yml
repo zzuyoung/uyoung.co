@@ -216,8 +216,8 @@ post_wordcount:
 
 # Reward
 reward_comment:
-wechatpay: /images/wechatpay.png
-alipay: /images/alipay.png
+wechatpay: /images/2018-04-13_wxd.jpg
+alipay: /images/2017-04-14_zfb.jpg
 bitcoin:
 
 # Declare license on posts
